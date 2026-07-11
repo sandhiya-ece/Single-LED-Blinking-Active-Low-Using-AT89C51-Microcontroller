@@ -7,6 +7,7 @@ This project demonstrates Single LED Blinking using Active Low logic on the AT89
 - AT89C51 Microcontroller
 - Single LED
 - 330 Ω Resistor
+- power 
 
 ## Software Used
 - Keil uVision
